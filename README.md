@@ -10,4 +10,6 @@ Test1
 Test2
 Test3
 
+signoff test
+
 A temp project to play around with git features.
